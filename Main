@@ -13,3 +13,4 @@ function resolve_parry_Remote()
         parry_remote = temp_remote
     end
 end
+resolve_parry_Remote()
